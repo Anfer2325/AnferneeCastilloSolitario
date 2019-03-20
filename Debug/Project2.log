@@ -1,0 +1,94 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project2\project2\source.cpp(144): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\user\source\repos\project2\project2\source.cpp(211): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\project2\project2\source.cpp(220): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\project2\project2\source.cpp(263): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\project2\project2\source.cpp(264): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\project2\project2\source.cpp(265): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\project2\project2\source.cpp(273): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\project2\project2\source.cpp(289): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\project2\project2\source.cpp(291): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\project2\project2\source.cpp(292): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\project2\project2\source.cpp(1555): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\project2\project2\source.cpp(150): warning C4101: 'seconds': unreferenced local variable
+  Project2.vcxproj -> C:\Users\user\source\repos\Project2\Debug\Project2.exe
